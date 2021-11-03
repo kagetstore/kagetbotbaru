@@ -1,5 +1,5 @@
 userbot = {
- owner: [ "6281261324817", "0" ],
+ owner: [ "6288298895431", "0" ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
